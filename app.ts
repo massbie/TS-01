@@ -148,3 +148,4 @@ function checkNumber1(a: any):object{
     }
         var MAS= checkNumber1("1");
         console.log(MAS);
+        
