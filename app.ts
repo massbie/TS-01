@@ -149,3 +149,12 @@ function checkNumber1(a: any):object{
         var MAS= checkNumber1("1");
         console.log(MAS);
         
+        
+// class
+        class Animal{
+name : string = "";
+        }
+        let dog = new Animal();
+        dog.name = "nawaz shrif";
+        let cat = new Animal();
+        cat.name = "cato";

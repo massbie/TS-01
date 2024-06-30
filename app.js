@@ -118,4 +118,12 @@ function checkNumber1(a) {
 }
 var MAS = checkNumber1("1");
 console.log(MAS);
+// class
+class Animal {
+    name = "";
+}
+let dog = new Animal();
+dog.name = "nawaz shrif";
+let cat = new Animal();
+cat.name = "cato";
 export {};
